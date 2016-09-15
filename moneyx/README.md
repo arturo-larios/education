@@ -23,5 +23,3 @@ Gradle Installation (Ubuntu)
 1. sudo add-apt-repository ppa:cwchien/gradle
 2. sudo apt-get update
 3. sudo apt-get install gradle-2.1
-
-
